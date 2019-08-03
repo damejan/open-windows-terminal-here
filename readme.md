@@ -9,4 +9,6 @@ For it to work, you need to modify the registry(before any action, make a copy o
 3. add a sub-key and name it "command"
 4. to the (Default) value assign this string: `<path_to_directory_with_this_program>\wt-change-starting-directory.exe %V`
 
+[download wt-change-starting-directory.exe](https://github.com/damian14443/open-windows-terminal-here/releases/tag/v0.1)
+
 ![screenshot](Capture.PNG)
